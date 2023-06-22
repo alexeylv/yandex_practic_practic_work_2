@@ -1,2 +1,3 @@
-# git-branch-case
-Repository for branch case.
+# Работа с ветками
+
+Локальные ветки связаны с удалёнными.
